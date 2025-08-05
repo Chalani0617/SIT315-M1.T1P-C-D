@@ -1,6 +1,6 @@
 # Arduino Sense–Think–Act System 
 
-This project demonstrates a modular Arduino Uno system using **Pin Change Interrupts (PCI)**, **Timer1 interrupts**, and **a polling mechanism** to implement a **Sense–Think–Act** pattern.
+This project demonstrates a modular Arduino Uno system using Pin Change Interrupts (PCI), Timer1 interrupts, and a polling mechanism to implement a Sense–Think–Act pattern.
 
 ---
 
